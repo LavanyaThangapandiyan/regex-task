@@ -7,7 +7,7 @@ import java.util.Random;
 public class UserName
 {
 		   int name;
-		   String[]userNames= {"Lavanya","raghuL","Raghul","raVi"};
+		   String[]userNames= {"Lavanya","raghU","RaghuL","rAbik"};
 		   String mobiles[]= {"265","176","918","742"};
 		   String citys[]= {"Madurai","Chennai","Coimbatore","Trichy"};
 		   public UserName()
